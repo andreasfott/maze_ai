@@ -24,15 +24,6 @@ This project is part of an **Artificial Intelligence** coursework focusing on **
 - Displays **visual representation of the maze and paths** for better understanding.  
 - Logs statistics on algorithm performance.  
 
-## 🎮 How to Play  
-
-1. Clone the repository and open the Jupyter Notebook (`AI_24_ΕΧ1_SOLUTION.ipynb`).  
-2. Run the notebook to generate a maze and **solve it using different AI search algorithms**.  
-3. Play the **Ghost Chase Game**:  
-   - Move through the maze while avoiding the AI-powered ghost.  
-   - The ghost dynamically chases you using **pathfinding algorithms**.  
-   - Try to **reach the finish point before getting caught!**  
-4. Experiment with different search strategies and game settings.  
 
 ## 📌 References  
 - [Wikipedia: Maze Generation Algorithms](https://en.wikipedia.org/wiki/Maze_generation_algorithm)  
